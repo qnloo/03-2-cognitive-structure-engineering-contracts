@@ -1,0 +1,60 @@
+# ⚠️ 重要合规及多重许可须知
+# ⚠️ IMPORTANT COMPLIANCE & MULTI-LICENSE NOTICE
+
+**资产持有主体 / Asset Holding Entity**: 厦门千年鹿文化科技有限公司 (Xiamen QNLOO Culture & Technology Co., Ltd.)
+**当前适用版本 / Applicable Version**: QNLOO-SPL v1.1
+**生效日期 / Effective Date**: 2026年7月4日
+
+---
+
+### 1. 核心路由规则
+
+本仓库（项目）不适用单一的免费开源许可证。仓库内资产已按「双资产分层许可隔离架构」进行法理切分，任何主体复制、修改、分发或开展商用运营，必须严格依照资产类别匹配对应的许可证。
+
+### 1. Core Routing Rules
+
+This repository DOES NOT apply a single unified free open-source license. Assets within this repository have been legally segmented under a "Dual-Asset Tiered Licensing Isolation Architecture". Any party copying, modifying, distributing, or conducting commercial operations shall strictly comply with the specific license matched to each asset category.
+
+---
+
+**【计算机源代码类资产】**
+
+单独适用根目录下的 `LICENSE-APACHE` 文件（即 Apache License 2.0）。其复制、修改、分发本身仅受该开源许可约束，完整许可文本详见根目录 `LICENSE-APACHE` 文件。
+
+**[Computer Source Code Assets]**
+
+Governed exclusively by the `LICENSE-APACHE` file (Apache License 2.0) in the root directory. The act of copying, modifying, and distributing the code itself is subject solely to said permissive license. The full license text is available in the `LICENSE-APACHE` file in the root directory.
+
+---
+
+**【商用运营行为、体系逻辑、专利、白皮书及音乐创作资产】**
+
+完整适用根目录下的 `LICENSE-QNLOO-SPL` 文件（即 QNLOO-SPL v1.1 主权公开许可范式）及 `PATENTS` 文件。
+
+**[Commercial Operations, Systemic Logic, Patents, Whitepapers, and Musical Assets]**
+
+Shall be exclusively governed by the `LICENSE-QNLOO-SPL` file (QNLOO-SPL v1.1 Sovereign Public License Paradigm) and the `PATENTS` file in the root directory.
+
+---
+
+### 2. 商用营收分润规则
+
+若将本仓库内的源码所对应的体系逻辑、架构、算法用于商业产品、线上服务或 Agent 产线并产生营收，该**商用运营行为**统一受 `LICENSE-QNLOO-SPL` 许可约束。商用主体须严格履行阶梯式营收分层反哺义务（超额部分按 0.6% 基准费率计提，游离主体及大厂产品线按对应基数穿透核算，统一通过法定数字货币智能合约完成基准结算，配套过渡期兼容支付通道）。
+
+### 2. Commercial Revenue Sharing Obligations
+
+If the systemic logic, architecture, and algorithms corresponding to the source code in this repository are utilized in commercial products, online services, or Agent production lines and generate revenue, such **commercial operational conduct** is uniformly governed by `LICENSE-QNLOO-SPL`. Commercial entities shall strictly fulfill their progressive revenue-based tiered sharing obligations (0.6% benchmark rate on excess revenue, with off-chain entities and enterprise product lines calculated on a penetration basis per corresponding bases; benchmark settlement is conducted exclusively via sovereign CBDC smart contracts, with a transition-compatible payment channel as supporting arrangement).
+
+---
+
+### 3. 版本与解释声明
+
+有关本多重许可体系的详细条款、分布式社会化取证与梯度化吹哨悬赏分成机制（Qui Tam Bounty System）以及损害赔偿清算规则，请完整审阅 `LICENSE-QNLOO-SPL` 全文。若第三方自动化合规工具因文本匹配规则对本仓库许可类型产生误判，一律以本声明及 `LICENSE-QNLOO-SPL` 的文义解释为准。
+
+### 3. Version & Interpretation
+
+For detailed terms of this multi-licensing framework, the distributed socialized evidence collection & tiered Qui Tam bounty sharing mechanism, and liquidated damages rules, please thoroughly review the full text of `LICENSE-QNLOO-SPL`. Should third-party automated compliance tools misclassify this repository due to text matching rules, this declaration and the literal interpretation of `LICENSE-QNLOO-SPL` shall prevail.
+
+---
+
+**© 2026 千年鹿 QNLOO. All Rights Reserved.**
